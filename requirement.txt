@@ -1,9 +1,0 @@
-crewai==0.108.0
-crewai_tools==0.38.1
-load_dotenv==0.1.0
-langchain==0.3.21
-langchain_community==0.3.20
-unstructured==0.17.2
-streamlit==1.44.0
-duckduckgo-search==7.5.5
-openai==1.69.0

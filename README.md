@@ -9,6 +9,12 @@ An AI-powered system designed to assist travelers in planning their trips by pro
 - **AI Agents:** Utilizes AI agents to guide users through the travel planning process.
 - **Comprehensive Reports:** Produces detailed reports, including city and guide information, to enhance the travel experience.
 
+
+## System Architecture
+
+![Image](https://github.com/user-attachments/assets/024f6cff-8aca-477b-8508-9db591235025)
+
+
 ## Installation
 
 1. **Clone the Repository:**  
